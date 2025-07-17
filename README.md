@@ -26,8 +26,10 @@ Hello, I'm Francis Encarnación!
 </p>
 
 ## 💻 My Tech Stack
-cs,js,html,css,dotnet,git,github,visualstudio,vscode,postman,bootstrap
+
 <p align="center">
-  <a href="https://skillicons.dev">[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode,postman,bootstrap,npm&theme=light)](https://skillicons.dev)/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode,postman,bootstrap" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
 </p>
