@@ -6,7 +6,9 @@ Hello, I'm Francis Encarnación!
 </h1>
 
 <hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=0000ff&center=true&vCenter=true&width=900&height=110&lines=Francis+Encarnacion;Programmer;BackEnd+Developer;Dominican)](https://git.io/typing-svg)
 
+<hr>
 <pre>
 💻 I am studing Software Development at Instituto Técnologico de las Américas
 📝 I have a strong interest in web development.
