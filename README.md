@@ -29,6 +29,6 @@ Hello, I'm Francis Encarnación!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode" />
   </a>
 </p>
