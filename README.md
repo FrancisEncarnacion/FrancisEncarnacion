@@ -40,7 +40,9 @@ Hello, I'm Francis Encarnación!
 
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
-<p align="center">
+<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -51,5 +53,6 @@ Hello, I'm Francis Encarnación!
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 
