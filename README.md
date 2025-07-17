@@ -6,7 +6,6 @@ Hello, I'm Francis Encarnación!
 </h1>
 
 <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
 <hr>
 <pre>
@@ -38,3 +37,15 @@ Hello, I'm Francis Encarnación!
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 </p>
+
+<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
+
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancisEncarnacion&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
+</a>
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisEncarnacion&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="th1l1na"  />
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisEncarnacion&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
+</div>
+
