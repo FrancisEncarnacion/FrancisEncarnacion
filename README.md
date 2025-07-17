@@ -26,9 +26,8 @@ Hello, I'm Francis Encarnación!
 </p>
 
 ## 💻 My Tech Stack
-
+cs,js,html,css,dotnet,git,github,visualstudio,vscode,postman,bootstrap
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode" />
+  <a href="https://skillicons.dev">[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,dotnet,git,github,visualstudio,vscode,postman,bootstrap,npm&theme=light)](https://skillicons.dev)/>
   </a>
 </p>
