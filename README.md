@@ -5,7 +5,6 @@ Hello, I'm Francis Encarnación!
 	</a>
 </h1>
 
-<hr>
 
 <hr>
 <pre>
