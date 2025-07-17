@@ -40,12 +40,16 @@ Hello, I'm Francis Encarnación!
 
 <h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancisEncarnacion&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
-</a>
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisEncarnacion&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="th1l1na"  />
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisEncarnacion&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FrancisEncarnacion&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisEncarnacion&layout=compact&theme=github_dark" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
