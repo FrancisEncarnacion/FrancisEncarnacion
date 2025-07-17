@@ -6,7 +6,7 @@ Hello, I'm Francis Encarnación!
 </h1>
 
 <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Francis+Encarnacion;Programmer;BackEnd+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
 <hr>
 <pre>
