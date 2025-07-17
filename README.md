@@ -10,7 +10,7 @@ Hello, I'm Francis Encarnación!
 <pre>
 💻 I am studing Software Development at Instituto Técnologico de las Américas
 📝 I have a strong interest in web development.
-🌱  I am learning REACT.
+🌱 I am learning REACT.
 🌟 Main language: C# 😁.
 🚩 Interested in developing applications on the backend side.
 😃 I look forward to collaborate on impactful projects
